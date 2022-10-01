@@ -1,1 +1,2 @@
-# L-gicaDePrograma-o-Algor-tmos
+# Lógica de Programação e Algoritmos - Linguagem Pascal
+
